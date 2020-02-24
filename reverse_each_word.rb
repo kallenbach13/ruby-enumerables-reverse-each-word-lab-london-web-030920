@@ -1,5 +1,5 @@
 def reverse_each_word(str)
   new = []
   new << str
-  new.reverse
+  new[0]
 end
