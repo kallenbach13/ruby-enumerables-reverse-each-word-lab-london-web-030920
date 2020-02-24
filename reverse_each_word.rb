@@ -1,1 +1,1 @@
-def rev
+def reverse_eac
